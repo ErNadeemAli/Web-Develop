@@ -1,0 +1,21 @@
+.btn{
+    background: #005CA5;
+    color: white;
+    padding: 10px 17px;
+    margin-top: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+a:active{
+    border-style: dotted;
+}
+.row2{
+    display: flex;
+    justify-content: space-between;
+}
+.row-col-1{
+    width: 100%;
+    /* height: ; */
+}
